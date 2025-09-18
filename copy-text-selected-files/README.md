@@ -1,6 +1,6 @@
 # Copy Text of Selected Files
 
-<img src="https://raw.githubusercontent.com/iyulab-rnd/public/main/images/screenshot.png" width="430" />
+<img src="https://raw.githubusercontent.com/iyulab/public/main/images/screenshot.png" width="430" />
 
 This Visual Studio Code extension enables users to directly copy the contents of selected files to the clipboard.
 This command can save the selected files to the clipboard as markdown consisting of a header and codeblock.
