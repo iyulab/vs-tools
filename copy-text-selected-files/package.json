@@ -8,9 +8,9 @@
     "url": "https://github.com/iyulab/vs-tools"
   },
   "icon": "logo_128.png",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Other"
@@ -65,16 +65,16 @@
   "devDependencies": {
     "@types/mime-types": "^3.0.1",
     "@types/mocha": "^10.0.10",
-    "@types/node": "24.x",
-    "@types/vscode": "^1.104.0",
-    "@typescript-eslint/eslint-plugin": "^8.44.0",
-    "@typescript-eslint/parser": "^8.44.0",
-    "@vscode/test-cli": "^0.0.11",
+    "@types/node": "^22.0.0",
+    "@types/vscode": "^1.96.0",
+    "@typescript-eslint/eslint-plugin": "^8.54.0",
+    "@typescript-eslint/parser": "^8.54.0",
+    "@vscode/test-cli": "^0.0.12",
     "@vscode/test-electron": "^2.5.2",
-    "eslint": "^9.35.0",
-    "typescript": "^5.9.2"
+    "eslint": "^9.39.0",
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "mime-types": "^2.1.35"
+    "mime-types": "^3.0.2"
   }
 }
